@@ -1,8 +1,8 @@
 {
-  "name": "react",
+  "name": "React-team-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://loki9911.github.io/React-team-project/",
+  "homepage": "https://serhvo.github.io/React-team-project/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
